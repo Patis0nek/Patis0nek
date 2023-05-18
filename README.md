@@ -14,8 +14,6 @@
 
 🌟 I believe that developing my skills and interests together is essential to reaching my objectives and maximizing my potential. Here are a few things I love doing: solving Rubik's cubes, practicing chess tactics, snowboarding, listening to science podcasts, learning about aerospace engineering.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patis0nek&show_icons=true&theme=tokyonight)
-
 ## Languages & Technologies
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

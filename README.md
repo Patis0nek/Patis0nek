@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 # **Front-End Developer** with **React.js** and **UX/UI Expertise**
 
 
+=======
+# **Front-End Developer with React.js and UX/UI Expertise**
+
+>>>>>>> f3896080556554567b28c6a0e7ec758b1ae292c6
 ### About
 
 👋 I am a front-end developer and UX/UI designer with a passion for creating visually appealing and user-friendly websites using React.js. My expertise in these areas allows me to design and develop websites that are both aesthetically pleasing and highly functional.

@@ -1,4 +1,4 @@
-# Patryk Kuna
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&repeat=false&color=ECB365&width=435&height=100&lines=Patryk+Kuna)](https://git.io/typing-svg)
 
 **Front-End Developer with React.js and UX/UI Expertise**
 

@@ -7,5 +7,3 @@
 🎓 I am currently studying Computer Physics at AGH University of Science and Technology in Kraków.
 
 🌟 I believe that **developing my skills** and interests together is essential to reaching my objectives and maximizing my potential. Here are a few things I love doing: solving Rubik's cubes, practicing chess tactics, snowboarding, listening to science podcasts, learning about aerospace engineering.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patis0nek&layout=compact)](https://github.com/Patis0nek/github-readme-stats)

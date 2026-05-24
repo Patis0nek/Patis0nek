@@ -16,4 +16,4 @@ Outside of coding and studying, I enjoy projects related to space exploration, a
 - Scientific computing
 
 ## Tech
-`React.js` `JavaScript` `C++` `Python` `HTML` `CSS` `Git`
+`C++` `Python` `React.js` `HTML` `CSS` `Java`

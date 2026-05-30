@@ -6,7 +6,7 @@ I enjoy using programming to solve physics and engineering problems, especially 
 
 I also work with front-end development and UX/UI design, mainly using React.js. I like building clean, practical interfaces and connecting software development with a strong math and physics background.
 
-Outside of coding and studying, I enjoy projects related to space exploration, aerospace engineering, and applied technology. I'm particullary intrested in orbital mechanics.
+Outside of coding and studying, I enjoy projects related to space exploration, aerospace engineering and applied technology. I'm particularly intrested in orbital mechanics.
 
 ## Interests
 - Numerical methods and simulations

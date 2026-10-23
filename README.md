@@ -1,6 +1,6 @@
 # Hi, I'm Patryk 👋
 
-I'm a 2nd year Computer Physics student at AGH University of Science and Technology, interested in computational physics, numerical methods, scientific computing and multivariable calculus.
+I'm a 3nd year Computer Physics student at AGH University of Science and Technology, interested in computational physics, numerical methods, scientific computing and multivariable calculus.
 
 I enjoy using programming to solve physics and engineering problems, especially through simulations, data analysis and numerical approaches. My studies combine mathematics, physics, algorithms and programming, which fits well with my interest in practical scientific software.
 
